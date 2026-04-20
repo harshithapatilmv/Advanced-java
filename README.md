@@ -13,3 +13,4 @@ lab7a.java:
 https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20203205.png
 https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20203213.png
 7b.java:https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20203213.png
+https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20204308.png
