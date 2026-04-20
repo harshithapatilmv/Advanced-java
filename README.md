@@ -12,3 +12,4 @@ p10 o/p: https://github.com/user-attachments/assets/fa70e8bf-8436-40d1-85bc-69aa
 lab7a.java:
 https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20203205.png
 https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20203213.png
+7b.java:https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20203213.png
