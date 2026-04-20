@@ -18,3 +18,4 @@ https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04
 https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20210501.png
 8b .java https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20211429.png
 https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20211438.png
+6a.java:https://github.com/harshithapatilmv/Advanced-java/blob/main/Screenshot%202026-04-20%20211918.png
